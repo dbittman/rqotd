@@ -1,5 +1,0 @@
-port = 1717
-execute = "fortune"
-args = ["-o"]
-message = "Test Message\n"
-

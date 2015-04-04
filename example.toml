@@ -1,0 +1,13 @@
+# port to bind to
+port = 17
+
+# program to execute. The output will be used as the QOTD.
+# Set to "" to disable executing a command.
+execute = "fortune"
+
+# Arguments to the command.
+args = ["-a"]
+
+# Send a specific message. This will only be sent if the 'execute' option is set to "".
+message = ""
+
