@@ -1,0 +1,8 @@
+[package]
+name = "rqotd"
+version = "0.1.0"
+authors = ["Daniel Bittman <danielbittman1@gmail.com>"]
+
+[dependencies]
+getopts = "*"
+toml = "*"
